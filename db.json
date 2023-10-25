@@ -1,0 +1,14 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "caption": "react",
+      "notes": "d-flex justify-content-between align-items-centerd"
+    },
+    {
+      "id": "2",
+      "caption": "react",
+      "notes": " npm i react-toastify"
+    }
+  ]
+}
